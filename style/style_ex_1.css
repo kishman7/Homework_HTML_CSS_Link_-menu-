@@ -1,0 +1,50 @@
+ul {
+    list-style: none;
+    background-color: rgb(223, 215, 215);
+    padding: 0;
+    margin-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+li{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+li:hover {
+    background-color: gray;
+}
+.edit {
+    background-size: 40px;
+    background-image: url(../menu_icons/edit.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 50px;
+}
+.favorites {
+    background-size: 40px;
+    background-image: url(../menu_icons/favorites.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 50px;
+}
+.history {
+    background-size: 40px;
+    background-image: url(../menu_icons/history.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 50px;
+}
+.security {
+    background-size: 40px;
+    background-image: url(../menu_icons/security.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 50px;
+}
+.settings {
+    background-size: 40px;
+    background-image: url(../menu_icons/settings.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 50px;
+}
